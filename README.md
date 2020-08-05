@@ -1,5 +1,5 @@
 # BattleRoyale
-Battle Royale was built with the Unreal Engine. I drew inspiration from Fortnite when I created this game. There are online matchmaking and local matchmaking options for players. The players will start with no weapon and drop from a plane at the beginning of the match. Players will have to scavenge for health, ammo, and guns while fighting other players. The safe zone will shrink every twenty seconds forcing players to the center of the map.
+Battle Royale was built in the Unreal Engine completely with blueprints. I drew inspiration from Fortnite when I created this game. There is an online matchmaking and local matchmaking option for players. The players will start with no weapon and drop from a plane at the beginning of the match. Players will have to scavenge for health, ammo, and guns while fighting other players. The safe zone will shrink every twenty seconds forcing players to the center of the map.
 
 ![Game1](https://i.ibb.co/QpB2KM2/Screenshot-27.png)
 ![Game2](https://i.ibb.co/vQvrpS8/Screenshot-29.png)
